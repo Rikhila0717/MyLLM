@@ -1,0 +1,5 @@
+matplotlib
+numpy
+ipykernel
+jupyter
+#pylmza is native for python 3.3+ versions
